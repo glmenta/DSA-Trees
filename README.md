@@ -116,13 +116,22 @@ class BST {
       }
     return false;
     }
+ 
   }
-
-
+}
 ```
 
+### Priority Queues
 ```
+Memory Heap !== Heap Data Structure
+
+Priority Queue => each ele have their own specific priority;
+=> like a club, VIPS can go in first
+
+Binary Heaps
+Pros: Better than O(n), priority, flexible size, fast insert
+Con: Slow lookup
 ```
 
 ```
-```
+
