@@ -133,5 +133,11 @@ Pros: Better than O(n), priority, flexible size, fast insert
 Con: Slow lookup
 ```
 
+### Tries
 ```
+Allows us to if a part of a word exists in a body of text
 
+Autocompletion, dictionary searches, IP routing
+
+Pros: Speed, Space
+```
